@@ -17,3 +17,4 @@ conflict website
 
 add this sentence from my virtual system
 
+get the message from the virtual system
